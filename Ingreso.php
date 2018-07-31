@@ -1,12 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
 <html>
    <head>
-      <title> Ingreso SISTEMA ASESORES" </title>
+      <title> Ingreso al SISTEMA ASESORES" </title>
    </head>
    <body>
       <?php
          ## Primera Tabla
          echo "<table width=280 border=0 cellpadding=3 bgcolor=#1E679A>";
+		 echo "<tr> <td> <img src=Imgs\logoemp.jpg width=250 height=150 alt='Falta Imagen'> </td> </tr>";
          echo "<tr>";
          echo "<td><font color=#FFFFFF face=Arial, verdana, helvetica>";
          echo "<b>Recuadro curioso con HTML</b> </font> </td>";
